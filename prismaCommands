@@ -1,0 +1,5 @@
+Hello prisma.
+Here is some command step by step
+
+1. npx prisma migrate dev --name init  --create-only
+2.prisma migrate deploy
